@@ -1,6 +1,6 @@
 module github.com/achanda/kubectl-copy
 
-go 1.21.4
+go 1.22.0
 
 require (
 	k8s.io/apimachinery v0.28.3
